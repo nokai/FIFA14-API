@@ -1,4 +1,4 @@
-<?
+<?php
 
 	use Guzzle\Http\Client;
 	use Guzzle\Plugin\Cookie\CookiePlugin;
